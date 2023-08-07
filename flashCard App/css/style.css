@@ -1,0 +1,42 @@
+.title {
+    text-align: center;
+    font-family: 'Cherry Bomb One', cursive;
+}
+
+.term {
+    border: solid 5px black;
+    border-radius: 15px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    font-family: 'Cherry Bomb One', cursive;
+}
+
+.definition {
+    border: solid 5px black;
+    border-radius: 15px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    font-family: 'Cherry Bomb One', cursive;
+    display: none;
+}
+
+.button {
+    text-align: center;
+    margin-top: 100px;
+}
+
+button{
+    color: rgb(197, 248, 10);
+    background-color: rgb(3, 148, 3);
+    padding: 20px;
+    border-radius: 15px;
+    font-family: 'Cherry Bomb One', cursive;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
